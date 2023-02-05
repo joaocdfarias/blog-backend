@@ -1,8 +1,9 @@
 # TODO
-- [x] Add Jest
-- [ ] Add ESLint
-- [ ] Add Prettier
-- [ ] Add Husky + Commitlint + Commitzen
-- [ ] Add Prisma
-- [ ] Choose DB
-- [ ] Create DB in docker
+
+-   [x] Add Jest
+-   [x] Add ESLint
+-   [x] Add Prettier
+-   [x] Add Husky + Commitlint + Commitzen
+-   [ ] Add Prisma
+-   [ ] Choose DB
+-   [ ] Create DB in docker
