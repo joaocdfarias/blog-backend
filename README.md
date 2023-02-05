@@ -1,5 +1,5 @@
 # TODO
-- [ ] Add Jest
+- [x] Add Jest
 - [ ] Add ESLint
 - [ ] Add Prettier
 - [ ] Add Husky + Commitlint + Commitzen
