@@ -8,7 +8,7 @@
         "express": "^4.18.2"
     },
     "scripts": {
-        "start:dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/app.ts",
+        "start": "ts-node-dev --respawn --transpile-only --exit-child --watch src src/app.ts",
         "build": "tsc",
         "test": "jest",
         "prettier:check": "npx prettier --check .",
